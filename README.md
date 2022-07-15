@@ -1,6 +1,6 @@
 ## Hi there 👋 I`m Valentin. Python-developer and Cybersecurity Specialist.
 
-#### My stack is: Python, Django/DRF, PostgreSQL, Redis, Docker/compose, Celery, Pytest, Unittest etc.
+#### My stack is: Python, Django/DRF, PostgreSQL, Redis, Docker/compose, Celery, Pytest, Unittest, Nginx, Gunicorn etc.
 #### Currently working at https://nekidaem.ru/
 
 #### Contact me
