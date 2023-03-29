@@ -1,4 +1,4 @@
-## Hi there 👋 I`m Valentin. Python-developer and Cybersecurity Specialist.
+## Hi there 👋 I`m Valentin. Python-developer and Cybersecurity specialist.
 
 #### My stack is: Python, Django/DRF, PostgreSQL, Redis, Docker/compose, Celery, Pytest, Unittest, Nginx, Gunicorn etc.
 #### Currently working at [Fromtech](https://fromtech.ru/)
